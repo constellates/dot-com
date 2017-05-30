@@ -1,0 +1,63 @@
+/**
+ * Site footer
+ */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+
+.footer {
+
+
+}
+.nav-bar {
+    font-family: Roboto;
+    font-weight: lighter;
+    position: fixed;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    background: rgba(255,255,255,0.8);
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.nav-bar div:first-child {
+  position: fixed;
+  right: 50%;
+  margin-right: 25px;
+}
+
+.nav-bar div:nth-child(2) {
+  position: fixed;
+  left: 50%;
+  margin-left: 25px;
+}
+
+.nav-bar div:last-child {
+  position: fixed;
+  left: 50%;
+  margin-left: 75px;
+}
+
+.nav-bar div a {
+    margin: 0px 10px;
+    color: #888;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+.menu-link {
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    margin-left: -20px;
+    background: #BEC8CF;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 750ms;
+}
+
+.menu-link.disabled {
+  background: #EEE;
+}

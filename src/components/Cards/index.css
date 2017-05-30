@@ -1,0 +1,25 @@
+.project-tile-container {
+	padding: 30px;
+	margin-bottom: 60px;
+}
+
+.list {
+  /*display: flex;
+  flex-direction: column;*/
+
+  list-style: none;
+  padding: 0;
+
+  &:after {
+    content: "";
+    display: table;
+    clear:both;
+  }
+}
+
+/*
+.list:after {
+  content:"";
+  display:table;
+  clear:both;
+}*/

@@ -1,0 +1,56 @@
+.project-tile {
+  display: block;
+  width: 50%;
+  float: left;
+  position: relative;
+
+  @media (max-width: 600px) {width: 100%;}
+
+}
+
+.tile-space-holder {margin-top: 75%}
+
+.content {
+    position: absolute;
+    top: 30px;
+    bottom: 30px;
+    left: 30px;
+    right: 30px;
+    background: #DDD;
+    background-size: cover;
+    background-position: center;
+
+
+  &:hover .project-overlay {opacity: .9;}
+}
+
+.project-overlay {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  background: #BEC8CF;
+  opacity: 0;
+  transition: opacity .25s ease-in-out;
+
+  &:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+  }
+
+
+}
+
+.project-title {
+  text-align: center;
+  font-size: 40px;
+  vertical-align: middle;
+  display: inline-block;
+  color: #EEE;
+  width: 50%;
+  margin-left: 25%;
+  @media (max-width: 800px) { font-size: 30px;}
+}
