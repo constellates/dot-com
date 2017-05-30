@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 GIT_DEPLOY_REPO=${GIT_DEPLOY_REPO:-$(node -e 'process.stdout.write(require("./package.json").repository)')}
 
+if [ "$TRAVIS" = "true" ]
+then
+  # git need this, on Travis-CI nobody is defined
+  git config --global user.name "zack" && \
+  git config --global user.email "mail@constellates.com"
+fi
+
+
 cd dist && \
 $(npm bin)/rimraf .git
 git init && \
