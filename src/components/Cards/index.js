@@ -4,7 +4,7 @@ import Card from "../Card"
 
 import styles from "./index.css"
 
-const PagesList = ({ pages }) => {
+const Cards = ({ pages }) => {
   return (
     <div className={ styles['project-tile-container'] }>
       {
@@ -24,8 +24,8 @@ const PagesList = ({ pages }) => {
   )
 }
 
-PagesList.propTypes = {
+Cards.propTypes = {
   pages: PropTypes.array.isRequired,
 }
 
-export default PagesList
+export default Cards

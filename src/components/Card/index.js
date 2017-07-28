@@ -4,7 +4,7 @@ import { Link } from "phenomic"
 
 import styles from "./index.css"
 
-const PagePreview = ({ __url, title, image}) => {
+const Card = ({ __url, title, image}) => {
   const style = {backgroundImage: 'url(' + image + ')'};
 
   return (
@@ -19,7 +19,7 @@ const PagePreview = ({ __url, title, image}) => {
   )
 }
 
-PagePreview.propTypes = {
+Card.propTypes = {
   __url: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired,
   date: PropTypes.string,
@@ -27,4 +27,4 @@ PagePreview.propTypes = {
   image: PropTypes.string,
 }
 
-export default PagePreview
+export default Card

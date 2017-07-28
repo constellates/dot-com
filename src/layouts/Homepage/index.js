@@ -1,6 +1,5 @@
 import React, {PropTypes} from "react"
 
-// import Posts from "../../components/Posts"
 import Page from "../Page"
 import Cards from '../../components/Cards'
 import enhanceCollection from "phenomic/lib/enhance-collection"
