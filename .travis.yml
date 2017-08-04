@@ -5,9 +5,6 @@ deploy:
   skip_cleanup: true
   provider: script
   script: ./scripts/deploy.sh
-  'on':
-    branch: master
-    node: '5'
 env:
   global:
     - secure: >-
