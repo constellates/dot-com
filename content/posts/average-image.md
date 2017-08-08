@@ -4,6 +4,9 @@ title:  "Average Image"
 date:   2016-06-24 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170808_Bachelorette-Finale.jpg)
+2017-08-08 Bachelorette Finale
+
 ![altText](/assets/average_image/20170807_National-Sister-Day.jpg)
 2017-08-07 National Sister-Day
 
