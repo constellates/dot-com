@@ -8,9 +8,6 @@ date:   2017-08-06 05:33:59 -0800
 ![altText](/assets/average_image/20170811_PGA-Championship.jpg)
 2017-08-11 PGA Championship
 
-![altText](/assets/average_image/20170811_PGA-Championship.jpg)
-2017-08-11 PGA Championship
-
 ![altText](/assets/average_image/20170810_Powerball.jpg)
 2017-08-10 Powerball
 
