@@ -8,6 +8,9 @@ date:   2017-08-06 05:33:59 -0800
 ![altText](/assets/average_image/20170811_PGA-Championship.jpg)
 2017-08-11 PGA Championship
 
+![altText](/assets/average_image/2017081_Powerball.jpg)
+2017-08-10 Powerball
+
 ![altText](/assets/average_image/20170809_Glen-Campbell.jpg)
 2017-08-09 Glen Campbell
 
