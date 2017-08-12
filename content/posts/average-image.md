@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170812_Ezekiel-Elliott.jpg)
+2017-08-12 Ezekiel Elliott
+
 ![altText](/assets/average_image/20170811_PGA-Championship.jpg)
 2017-08-11 PGA Championship
 
