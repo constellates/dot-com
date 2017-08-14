@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170814_Real-Madrid.jpg)
+2017-08-14 Real Madrid
+
 ![altText](/assets/average_image/20170813_Charlottesville.jpg)
 2017-08-13 Charlottesville
 
