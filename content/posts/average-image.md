@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170816_MoviePass.jpg)
+2017-08-16 MoviePass
+
 ![altText](/assets/average_image/20170815_Ric-Flair.jpg)
 2017-08-15 Ric Flair
 
