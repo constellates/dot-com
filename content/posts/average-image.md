@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170818_Heather-Heyer.jpg)
+2017-08-18 Heather Heyer
+
 ![altText](/assets/average_image/20170817_Real-Madrid.jpg)
 2017-08-17 Real Madrid
 
