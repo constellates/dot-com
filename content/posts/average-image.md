@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170822_2024-Eclipse.jpg)
+2017-08-22 2024 Eclipse
+
 ![altText](/assets/average_image/20170821_solar-eclipse.jpg)
 2017-08-21 solar eclipse
 
