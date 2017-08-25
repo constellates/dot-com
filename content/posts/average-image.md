@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170825_Jay-Thomas.jpg)
+2017-08-25 Jay Thomas
+
 ![altText](/assets/average_image/20170824_Powerball.jpg)
 2017-08-24 Powerball
 
