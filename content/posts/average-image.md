@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170828_Houston.jpg)
+2017-08-28 Houston
+
 ![altText](/assets/average_image/20170827_National-Dog-Day.jpg)
 2017-08-27 National Dog-Day
 
