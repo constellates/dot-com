@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170830_Melania-Trump.jpg)
+2017-08-30 Melania Trump
+
 ![altText](/assets/average_image/20170829_North-Korea.jpg)
 2017-08-29 North Korea
 
