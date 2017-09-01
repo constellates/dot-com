@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170901_Ohio-State-Football.jpg)
+2017-09-01 Ohio State-Football
+
 ![altText](/assets/average_image/20170831_Joe-Haden.jpg)
 2017-08-31 Joe Haden
 
