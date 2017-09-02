@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170902_Utah-nurse-arrested.jpg)
+2017-09-02 Utah nurse-arrested
+
 ![altText](/assets/average_image/20170901_Ohio-State-Football.jpg)
 2017-09-01 Ohio State-Football
 
