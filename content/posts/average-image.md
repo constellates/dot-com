@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170904_North-Korea.jpg)
+2017-09-04 North Korea
+
 ![altText](/assets/average_image/20170903_Alabama-football.jpg)
 2017-09-03 Alabama football
 
