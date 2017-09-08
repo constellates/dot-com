@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170908_Patriots.jpg)
+2017-09-08 Patriots
+
 ![altText](/assets/average_image/20170907_Dancing-With-The-Stars-2017.jpg)
 2017-09-07 Dancing With-The-Stars-2017
 
