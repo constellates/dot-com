@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![altText](/assets/average_image/20170909_Troy-Gentry.jpg)
+2017-09-09 Troy Gentry
+
 ![altText](/assets/average_image/20170908_Patriots.jpg)
 2017-09-08 Patriots
 
