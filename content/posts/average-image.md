@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20170913_Hand-In-Hand-2017.jpg)
+2017-09-13 Hand In Hand 2017
+
 ![](/assets/average_image/20170912_iPhone-X.jpg)
 2017-09-12 iPhone x
 
