@@ -5,119 +5,119 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
-![altText](/assets/average_image/)
---
+![](/assets/average_image/20170912_iPhone-X.jpg)
+2017-09-12 iPhone x
 
-![altText](/assets/average_image/20170911_NFL.jpg)
+![](/assets/average_image/20170911_NFL.jpg)
 2017-09-11 NFL
 
-![altText](/assets/average_image/20170910_Ohio-State-Football.jpg)
-2017-09-10 Ohio State-Football
+![](/assets/average_image/20170910_Ohio-State-Football.jpg)
+2017-09-10 Ohio State Football
 
-![altText](/assets/average_image/20170909_Troy-Gentry.jpg)
+![](/assets/average_image/20170909_Troy-Gentry.jpg)
 2017-09-09 Troy Gentry
 
-![altText](/assets/average_image/20170908_Patriots.jpg)
+![](/assets/average_image/20170908_Patriots.jpg)
 2017-09-08 Patriots
 
-![altText](/assets/average_image/20170907_Dancing-With-The-Stars-2017.jpg)
-2017-09-07 Dancing With-The-Stars-2017
+![](/assets/average_image/20170907_Dancing-With-The-Stars-2017.jpg)
+2017-09-07 Dancing With The Stars 2017
 
-![altText](/assets/average_image/20170906_Weather-Channel.jpg)
+![](/assets/average_image/20170906_Weather-Channel.jpg)
 2017-09-06 Weather Channel
 
-![altText](/assets/average_image/20170905_Kate-Middleton.jpg)
+![](/assets/average_image/20170905_Kate-Middleton.jpg)
 2017-09-05 Kate Middleton
 
-![altText](/assets/average_image/20170904_North-Korea.jpg)
+![](/assets/average_image/20170904_North-Korea.jpg)
 2017-09-04 North Korea
 
-![altText](/assets/average_image/20170903_Alabama-football.jpg)
+![](/assets/average_image/20170903_Alabama-football.jpg)
 2017-09-03 Alabama football
 
-![altText](/assets/average_image/20170902_Utah-nurse-arrested.jpg)
-2017-09-02 Utah nurse-arrested
+![](/assets/average_image/20170902_Utah-nurse-arrested.jpg)
+2017-09-02 Utah nurse arrested
 
-![altText](/assets/average_image/20170901_Ohio-State-Football.jpg)
-2017-09-01 Ohio State-Football
+![](/assets/average_image/20170901_Ohio-State-Football.jpg)
+2017-09-01 Ohio State Football
 
-![altText](/assets/average_image/20170831_Joe-Haden.jpg)
+![](/assets/average_image/20170831_Joe-Haden.jpg)
 2017-08-31 Joe Haden
 
-![altText](/assets/average_image/20170830_Melania-Trump.jpg)
+![](/assets/average_image/20170830_Melania-Trump.jpg)
 2017-08-30 Melania Trump
 
-![altText](/assets/average_image/20170829_North-Korea.jpg)
+![](/assets/average_image/20170829_North-Korea.jpg)
 2017-08-29 North Korea
 
-![altText](/assets/average_image/20170828_Houston.jpg)
+![](/assets/average_image/20170828_Houston.jpg)
 2017-08-28 Houston
 
-![altText](/assets/average_image/20170827_National-Dog-Day.jpg)
-2017-08-27 National Dog-Day
+![](/assets/average_image/20170827_National-Dog-Day.jpg)
+2017-08-27 National Dog Day
 
-![altText](/assets/average_image/20170826_Rich-Piana.jpg)
+![](/assets/average_image/20170826_Rich-Piana.jpg)
 2017-08-26 Rich Piana
 
-![altText](/assets/average_image/20170825_Jay-Thomas.jpg)
+![](/assets/average_image/20170825_Jay-Thomas.jpg)
 2017-08-25 Jay Thomas
 
-![altText](/assets/average_image/20170824_Powerball.jpg)
+![](/assets/average_image/20170824_Powerball.jpg)
 2017-08-24 Powerball
 
-![altText](/assets/average_image/20170823_Kyrie-Irving.jpg)
+![](/assets/average_image/20170823_Kyrie-Irving.jpg)
 2017-08-23 Kyrie Irving
 
-![altText](/assets/average_image/20170822_2024-Eclipse.jpg)
+![](/assets/average_image/20170822_2024-Eclipse.jpg)
 2017-08-22 2024 Eclipse
 
-![altText](/assets/average_image/20170821_solar-eclipse.jpg)
+![](/assets/average_image/20170821_solar-eclipse.jpg)
 2017-08-21 solar eclipse
 
-![altText](/assets/average_image/20170820_Powerball.jpg)
+![](/assets/average_image/20170820_Powerball.jpg)
 2017-08-20 Powerball
 
-![altText](/assets/average_image/20170819_Steve-Bannon.jpg)
+![](/assets/average_image/20170819_Steve-Bannon.jpg)
 2017-08-19 Steve Bannon
 
-![altText](/assets/average_image/20170818_Heather-Heyer.jpg)
+![](/assets/average_image/20170818_Heather-Heyer.jpg)
 2017-08-18 Heather Heyer
 
-![altText](/assets/average_image/20170817_Real-Madrid.jpg)
+![](/assets/average_image/20170817_Real-Madrid.jpg)
 2017-08-17 Real Madrid
 
-![altText](/assets/average_image/20170816_MoviePass.jpg)
+![](/assets/average_image/20170816_MoviePass.jpg)
 2017-08-16 MoviePass
 
-![altText](/assets/average_image/20170815_Ric-Flair.jpg)
+![](/assets/average_image/20170815_Ric-Flair.jpg)
 2017-08-15 Ric Flair
 
-![altText](/assets/average_image/20170814_Real-Madrid.jpg)
+![](/assets/average_image/20170814_Real-Madrid.jpg)
 2017-08-14 Real Madrid
 
-![altText](/assets/average_image/20170813_Charlottesville.jpg)
+![](/assets/average_image/20170813_Charlottesville.jpg)
 2017-08-13 Charlottesville
 
-![altText](/assets/average_image/20170812_Ezekiel-Elliott.jpg)
+![](/assets/average_image/20170812_Ezekiel-Elliott.jpg)
 2017-08-12 Ezekiel Elliott
 
-![altText](/assets/average_image/20170811_PGA-Championship.jpg)
+![](/assets/average_image/20170811_PGA-Championship.jpg)
 2017-08-11 PGA Championship
 
-![altText](/assets/average_image/20170810_Powerball.jpg)
+![](/assets/average_image/20170810_Powerball.jpg)
 2017-08-10 Powerball
 
-![altText](/assets/average_image/20170809_Glen-Campbell.jpg)
+![](/assets/average_image/20170809_Glen-Campbell.jpg)
 2017-08-09 Glen Campbell
 
-![altText](/assets/average_image/20170808_Bachelorette-Finale.jpg)
+![](/assets/average_image/20170808_Bachelorette-Finale.jpg)
 2017-08-08 Bachelorette Finale
 
-![altText](/assets/average_image/20170807_National-Sister-Day.jpg)
-2017-08-07 National Sister-Day
+![](/assets/average_image/20170807_National-Sister-Day.jpg)
+2017-08-07 National Sister Day
 
-![altText](/assets/average_image/20170806_Usain-Bolt.jpg)
+![](/assets/average_image/20170806_Usain-Bolt.jpg)
 2017-08-06 Usain Bolt
 
-![altText](/assets/average_image/20170701_Paul-George.jpg)
+![](/assets/average_image/20170701_Paul-George.jpg)
 2017-07-01 Paul George
