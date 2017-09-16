@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20170916_Jason-Stockley.jpg)
+2017-09-16 Jason Stockley
+
 ![](/assets/average_image/20170915_Lupus.jpg)
 2017-09-15 Lupus
 
