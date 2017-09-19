@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/)
+--
+
 ![](/assets/average_image/20170918_Dallas-Cowboys.jpg)
 2017-09-18 Dallas Cowboys
 
