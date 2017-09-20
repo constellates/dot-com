@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20170920_Mexico-City-earthquake.jpg)
+2017-09-20 Mexico City earthquake
+
 ![](/assets/average_image/)
 --
 
