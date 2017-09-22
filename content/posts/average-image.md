@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20170922_49ers.jpg)
+2017-09-22 49ers
+
 ![](/assets/average_image/20170921_Puerto-Rico.jpg)
 2017-09-21 Puerto Rico
 
