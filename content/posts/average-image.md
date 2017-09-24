@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20170924_Carmelo-Anthony.jpg)
+2017-09-24 Carmelo Anthony
+
 ![](/assets/average_image/20170923_Kylie-Jenner.jpg)
 2017-09-23 Kylie Jenner
 
