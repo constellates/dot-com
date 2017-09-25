@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20170925_Green-Bay-Packers.jpg)
+2017-09-25 Green Bay Packers
+
 ![](/assets/average_image/20170924_Carmelo-Anthony.jpg)
 2017-09-24 Carmelo Anthony
 
