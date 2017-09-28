@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20170928_Google-birthday-surprise-spinner.jpg)
+2017-09-28 Google birthday surprise spinner
+
 ![](/assets/average_image/20170927_Khloe-Kardashian.jpg)
 2017-09-27 Khloe Kardashian
 
