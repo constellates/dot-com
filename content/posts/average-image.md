@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171003_Tom-Petty.jpg)
+2017-10-03 Tom Petty
+
 ![](/assets/average_image/20171002_Dallas-Cowboys.jpg)
 2017-10-02 Dallas Cowboys
 
