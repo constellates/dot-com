@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171007_Ralphie-May.jpg)
+2017-10-07 Ralphie May
+
 ![](/assets/average_image/20171006_Patriots.jpg)
 2017-10-06 Patriots
 
