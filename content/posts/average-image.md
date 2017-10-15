@@ -5,9 +5,6 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
-![](/assets/average_image/)
---
-
 ![](/assets/average_image/20171014_Rose-McGowan.jpg)
 2017-10-14 Rose McGowan
 
@@ -17,11 +14,11 @@ date:   2017-08-06 05:33:59 -0800
 ![](/assets/average_image/20171012_Yankees.jpg)
 2017-10-12 Yankees
 
-![](/assets/average_image/20171011_USA-soccer.jpg)
-2017-10-11 USA soccer
+![](/assets/average_image/20171011_Harvey-Weinstein.jpg)
+2017-10-11 Harvey Weinstein
 
-![](/assets/average_image/)
---
+![](/assets/average_image/20171010_Fridtjof-Nansen.jpg)
+2017-10-10 Fridtjof Nansen
 
 ![](/assets/average_image/20171009_Green-Bay-Packers.jpg)
 2017-10-09 Green Bay Packers
@@ -53,8 +50,8 @@ date:   2017-08-06 05:33:59 -0800
 ![](/assets/average_image/20170930_SNES-Classic.jpg)
 2017-09-30 SNES Classic
 
-![](/assets/average_image/)
---
+![](/assets/average_image/20170929_Green-Bay-Packers.jpg)
+2017-09-29 Green Bay Packers
 
 ![](/assets/average_image/20170928_Google-birthday-surprise-spinner.jpg)
 2017-09-28 Google birthday surprise spinner
@@ -83,8 +80,8 @@ date:   2017-08-06 05:33:59 -0800
 ![](/assets/average_image/20170920_Mexico-City-earthquake.jpg)
 2017-09-20 Mexico City earthquake
 
-![](/assets/average_image/)
---
+![](/assets/average_image/20170919_Amalia-Hernandez.jpg)
+2017-09-19 Amalia Hernandez
 
 ![](/assets/average_image/20170918_Dallas-Cowboys.jpg)
 2017-09-18 Dallas Cowboys
