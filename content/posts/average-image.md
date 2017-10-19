@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171019_McKayla-Maroney.jpg)
+2017-10-19 McKayla Maroney
+
 ![](/assets/average_image/20171018_Gucci-Mane.jpg)
 2017-10-18 Gucci Mane
 
