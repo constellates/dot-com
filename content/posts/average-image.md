@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171024_Eagles.jpg)
+2017-10-24 Eagles
+
 ![](/assets/average_image/20171023_The-Walking-Dead.jpg)
 2017-10-23 The Walking Dead
 
