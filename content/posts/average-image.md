@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171025_World-Series-2017.jpg)
+2017-10-25 World Series 2017
+
 ![](/assets/average_image/20171024_Eagles.jpg)
 2017-10-24 Eagles
 
