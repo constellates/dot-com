@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171027_JFK-files.jpg)
+2017-10-27 JFK files
+
 ![](/assets/average_image/20171026_Fats-Domino.jpg)
 2017-10-26 Fats Domino
 
