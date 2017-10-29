@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171029_Penn-State-football.jpg)
+2017-10-29 Penn State football
+
 ![](/assets/average_image/20171028_Catalonia.jpg)
 2017-10-28 Catalonia
 
