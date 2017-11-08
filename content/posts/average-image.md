@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171108_Roy-Halladay.jpg)
+2017-11-08 Roy Halladay
+
 ![](/assets/average_image/20171107_Snapchat.jpg)
 2017-11-07 Snapchat
 
