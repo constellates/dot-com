@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171110_Louis-CK.jpg)
+2017-11-10 Louis CK
+
 ![](/assets/average_image/20171109_Corey-Haim.jpg)
 2017-11-09 Corey Haim
 
