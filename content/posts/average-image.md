@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171114_Roy-Moore.jpg)
+2017-11-14 Roy Moore
+
 ![](/assets/average_image/20171113_Green-Bay-Packers.jpg)
 2017-11-13 Green Bay Packers
 
