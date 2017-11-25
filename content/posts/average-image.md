@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171125_Miami-Hurricanes.jpg)
+2017-11-25 Miami Hurricanes
+
 ![](/assets/average_image/20171124_Walmart.jpg)
 2017-11-24 Walmart
 
