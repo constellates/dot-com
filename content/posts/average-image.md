@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171202_Michael-Flynn.jpg)
+2017-12-02 Michael Flynn
+
 ![](/assets/average_image/20171201_finance.jpg)
 2017-12-01 finance
 
