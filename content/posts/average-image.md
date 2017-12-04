@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171204_Green-Bay-Packers.jpg)
+2017-12-04 Green Bay Packers
+
 ![](/assets/average_image/20171203_Auburn-vs-Georgia.jpg)
 2017-12-03 Auburn vs Georgia
 
