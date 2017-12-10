@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171210_Baker-Mayfield.jpg)
+2017-12-10 Baker Mayfield
+
 ![](/assets/average_image/20171209_Daniel-Shaver.jpg)
 2017-12-09 Daniel Shaver
 
