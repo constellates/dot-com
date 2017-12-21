@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171221_The-Voice.jpg)
+2017-12-21 The Voice
+
 ![](/assets/average_image/20171220_El-Pirata-de-Culiacan.jpg)
 2017-12-20 El Pirata de Culiacan
 
