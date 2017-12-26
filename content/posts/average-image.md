@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171226_NBA.jpg)
+2017-12-26 NBA
+
 ![](/assets/average_image/20171225_Santa-tracker.jpg)
 2017-12-25 Santa tracker
 
