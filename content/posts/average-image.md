@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20171227_James-Harrison.jpg)
+2017-12-27 James Harrison
+
 ![](/assets/average_image/20171226_NBA.jpg)
 2017-12-26 NBA
 
