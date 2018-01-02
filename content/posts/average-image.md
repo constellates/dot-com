@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180102_Rose-Bowl-2018.jpg)
+2018-01-02 Rose Bowl 2018
+
 ![](/assets/average_image/20171231_Penn-State-football.jpg)
 2017-12-31 Penn State football
 
