@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180110_Olivia-Nova.jpg)
+2018-01-10 Olivia Nova
+
 ![](/assets/average_image/20180109_Alabama-vs-Georgia.jpg)
 2018-01-09 Alabama vs Georgia
 
