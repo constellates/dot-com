@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180111_James-Franco.jpg)
+2018-01-11 James Franco
+
 ![](/assets/average_image/20180110_Olivia-Nova.jpg)
 2018-01-10 Olivia Nova
 
