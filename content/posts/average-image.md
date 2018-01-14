@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180114_Eagles.jpg)
+2018-01-14 Eagles
+
 ![](/assets/average_image/20180113_The-Post.jpg)
 2018-01-13 The Post
 
