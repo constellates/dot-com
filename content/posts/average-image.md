@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180124_Oscar-Nominations-2018.jpg)
+2018-01-24 Oscar Nominations 2018
+
 ![](/assets/average_image/20180123_Government-shutdown-2018.jpg)
 2018-01-23 Government shutdown 2018
 
