@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180125_Larry-Nassar.jpg)
+2018-01-25 Larry Nassar
+
 ![](/assets/average_image/20180124_Oscar-Nominations-2018.jpg)
 2018-01-24 Oscar Nominations 2018
 
