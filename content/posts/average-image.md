@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180126_XFL.jpg)
+2018-01-26 XFL
+
 ![](/assets/average_image/20180125_Larry-Nassar.jpg)
 2018-01-25 Larry Nassar
 
