@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180128_Caroline-Wozniacki.jpg)
+2018-01-28 Caroline Wozniacki
+
 ![](/assets/average_image/20180127_Bruno-Mars.jpg)
 2018-01-27 Bruno Mars
 
