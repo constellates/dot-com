@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180129_Royal-Rumble-2018.jpg)
+2018-01-29 Royal Rumble 2018
+
 ![](/assets/average_image/20180128_Caroline-Wozniacki.jpg)
 2018-01-28 Caroline Wozniacki
 
