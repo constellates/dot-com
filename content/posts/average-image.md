@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180202_Robert-Wagner.jpg)
+2018-02-02 Robert Wagner
+
 ![](/assets/average_image/20180201_Rasual-Butler.jpg)
 2018-02-01 Rasual Butler
 
