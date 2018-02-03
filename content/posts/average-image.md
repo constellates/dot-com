@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180203_Larry-Nassar.jpg)
+2018-02-03 Larry Nassar
+
 ![](/assets/average_image/20180202_Robert-Wagner.jpg)
 2018-02-02 Robert Wagner
 
