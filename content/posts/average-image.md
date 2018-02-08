@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180208_school-closings.jpg)
+2018-02-08 school closings
+
 ![](/assets/average_image/20180207_Josh-McDaniels.jpg)
 2018-02-07 Josh McDaniels
 
