@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180210_National-Pizza-Day.jpg)
+2018-02-10 National Pizza Day
+
 ![](/assets/average_image/20180209_Government-Shutdown.jpg)
 2018-02-09 Government Shutdown
 
