@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180212_Cavs.jpg)
+2018-02-12 Cavs
+
 ![](/assets/average_image/20180211_New-England-Patriots-owner.jpg)
 2018-02-11 New England Patriots owner
 
