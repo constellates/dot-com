@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180215_Florida-shooting.jpg)
+2018-02-15 Florida shooting
+
 ![](/assets/average_image/20180214_Shaun-White.jpg)
 2018-02-14 Shaun White
 
