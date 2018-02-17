@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180217_Melania-Trump.jpg)
+2018-02-17 Melania Trump
+
 ![](/assets/average_image/20180216_Black-Panther.jpg)
 2018-02-16 Black Panther
 
