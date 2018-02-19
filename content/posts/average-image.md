@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180219_Daytona-500.jpg)
+2018-02-19 Daytona 500
+
 ![](/assets/average_image/20180218_Dunk-Contest-2018.jpg)
 2018-02-18 Dunk Contest 2018
 
