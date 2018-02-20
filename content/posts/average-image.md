@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180220_Gabriella-Papadakis.jpg)
+2018-02-20 Gabriella Papadakis
+
 ![](/assets/average_image/20180219_Daytona-500.jpg)
 2018-02-19 Daytona 500
 
