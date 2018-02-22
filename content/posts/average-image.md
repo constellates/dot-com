@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180222_Billy-Graham.jpg)
+2018-02-22 Billy Graham
+
 ![](/assets/average_image/20180221_Lindsey-Vonn.jpg)
 2018-02-21 Lindsey Vonn
 
