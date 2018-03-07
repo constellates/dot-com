@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180307_Champions-League.jpg)
+2018-03-07 Champions League
+
 ![](/assets/average_image/20180306_Sam-Nunberg.jpg)
 2018-03-06 Sam Nunberg
 
