@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180309_Nintendo-Direct.jpg)
+2018-03-09 Nintendo Direct
+
 ![](/assets/average_image/20180308_International-Women's-Day.jpg)
 2018-03-08 International Women's Day
 
