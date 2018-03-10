@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180310_Jarvis-Landry.jpg)
+2018-03-10 Jarvis Landry
+
 ![](/assets/average_image/20180309_Nintendo-Direct.jpg)
 2018-03-09 Nintendo Direct
 
