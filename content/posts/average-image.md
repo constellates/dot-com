@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180318_Gonzaga.jpg)
+2018-03-18 Gonzaga
+
 ![](/assets/average_image/20180317_St.-Patrick's-Day.jpg)
 2018-03-17 St. Patrick's Day
 
