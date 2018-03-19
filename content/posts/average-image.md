@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180319_UNC-Basketball.jpg)
+2018-03-19 UNC Basketball
+
 ![](/assets/average_image/20180318_Gonzaga.jpg)
 2018-03-18 Gonzaga
 
