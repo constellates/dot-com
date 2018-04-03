@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180403_Little-Caesars-Free-Pizza.jpg)
+2018-04-03 Little Caesars Free Pizza
+
 ![](/assets/average_image/20180402_Jesus-Christ-Superstar.jpg)
 2018-04-02 Jesus Christ Superstar
 
