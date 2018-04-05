@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180405_Barcelona.jpg)
+2018-04-05 Barcelona
+
 ![](/assets/average_image/20180404_YouTube-shooting.jpg)
 2018-04-04 YouTube shooting
 
