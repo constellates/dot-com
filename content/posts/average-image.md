@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180423_Waffle-House-shooting.jpg)
+2018-04-23 Waffle House shooting
+
 ![](/assets/average_image/20180422_Verne-Troyer.jpg)
 2018-04-22 Verne Troyer
 
