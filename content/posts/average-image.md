@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180426_Golden-State-Killer.jpg)
+2018-04-26 Golden State Killer
+
 ![](/assets/average_image/20180425_Toronto.jpg)
 2018-04-25 Toronto
 
