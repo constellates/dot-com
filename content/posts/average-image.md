@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180504_Cavs.jpg)
+2018-05-04 Cavs
+
 ![](/assets/average_image/20180503_Liverpool.jpg)
 2018-05-03 Liverpool
 
