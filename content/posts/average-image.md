@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180512_Scott-Hutchison.jpg)
+2018-05-12 Scott Hutchison
+
 ![](/assets/average_image/20180511_Nashville-Predators.jpg)
 2018-05-11 Nashville Predators
 
