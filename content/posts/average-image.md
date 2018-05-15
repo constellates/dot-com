@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180515_Margot-Kidder.jpg)
+2018-05-15 Margot Kidder
+
 ![](/assets/average_image/20180514_Cavaliers-vs-Celtics.jpg)
 2018-05-14 Cavaliers vs Celtics
 
