@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180518_restaurants.jpg)
+2018-05-18 restaurants
+
 ![](/assets/average_image/20180517_Aaron-Schlossberg.jpg)
 2018-05-17 Aaron Schlossberg
 
