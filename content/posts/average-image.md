@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180521_BTS.jpg)
+2018-05-21 BTS
+
 ![](/assets/average_image/20180519_Royal-wedding.jpg)
 2018-05-19 Royal wedding
 
