@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180525_Warriors-vs-Rockets.jpg)
+2018-05-25 Warriors vs Rockets
+
 ![](/assets/average_image/20180524_Tomi-Lahren.jpg)
 2018-05-24 Tomi Lahren
 
