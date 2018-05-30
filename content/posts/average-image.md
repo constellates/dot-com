@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180530_Valerie-Jarrett.jpg)
+2018-05-30 Valerie Jarrett
+
 ![](/assets/average_image/20180529_Memorial-Day.jpg)
 2018-05-29 Memorial Day
 
