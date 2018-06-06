@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180606_Kate-Spade.jpg)
+2018-06-06 Kate Spade
+
 ![](/assets/average_image/20180605_Apple.jpg)
 2018-06-05 Apple
 
