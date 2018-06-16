@@ -8,6 +8,9 @@ date:   2017-08-06 05:33:59 -0800
 ![](/assets/average_image/20180616_Chris-Hardwick.jpg)
 2018-06-16 Chris Hardwick
 
+![](/assets/average_image/20180616_Chris-Hardwick.jpg)
+2018-06-16 Chris Hardwick
+
 ![](/assets/average_image/20180615_US-Open.jpg)
 2018-06-15 US Open
 
