@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180624_Red-Hen-Lexington.jpg)
+2018-06-24 Red Hen Lexington
+
 ![](/assets/average_image/20180623_Brazil-vs-Costa-Rica.jpg)
 2018-06-23 Brazil vs Costa Rica
 
