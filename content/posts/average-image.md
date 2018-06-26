@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180626_Restaurants.jpg)
+2018-06-26 Restaurants
+
 ![](/assets/average_image/20180625_Poland-vs-Colombia.jpg)
 2018-06-25 Poland vs Colombia
 
