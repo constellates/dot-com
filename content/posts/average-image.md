@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180628_Mexico-vs-Sweden.jpg)
+2018-06-28 Mexico vs Sweden
+
 ![](/assets/average_image/20180627_Argentina-vs-Nigeria.jpg)
 2018-06-27 Argentina vs Nigeria
 
