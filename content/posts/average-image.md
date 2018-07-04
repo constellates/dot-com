@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180704_The-First-Purge.jpg)
+2018-07-04 The First Purge
+
 ![](/assets/average_image/20180703_Mexico-vs-Brazil.jpg)
 2018-07-03 Mexico vs Brazil
 
