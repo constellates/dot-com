@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180707_Uruguay-vs-France.jpg)
+2018-07-07 Uruguay vs France
+
 ![](/assets/average_image/20180706_Ant-Man-And-The-Wasp.jpg)
 2018-07-06 Ant Man And The Wasp
 
