@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180727_Lyudmila-Rudenko.jpg)
+2018-07-27 Lyudmila Rudenko
+
 ![](/assets/average_image/20180726_Facebook-stock.jpg)
 2018-07-26 Facebook stock
 
