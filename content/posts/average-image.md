@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180807_Bachelorette.jpg)
+2018-08-07 Bachelorette
+
 ![](/assets/average_image/20180806_National-Sister-Day.jpg)
 2018-08-06 National Sister Day
 
