@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180816_Crazy-Rich-Asians.jpg)
+2018-08-16 Crazy Rich Asians
+
 ![](/assets/average_image/20180815_Genoa-Italy.jpg)
 2018-08-15 Genoa Italy
 
