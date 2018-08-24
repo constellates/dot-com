@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180824_Epic-Games.jpg)
+2018-08-24 Epic Games
+
 ![](/assets/average_image/20180823_Urban-Meyer.jpg)
 2018-08-23 Urban Meyer
 
