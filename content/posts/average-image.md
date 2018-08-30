@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180830_Michael-Jackson.jpg)
+2018-08-30 Michael Jackson
+
 ![](/assets/average_image/20180829_Earthquake-Today.jpg)
 2018-08-29 Earthquake Today
 
