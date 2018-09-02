@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180902_Michigan-football.jpg)
+2018-09-02 Michigan football
+
 ![](/assets/average_image/20180901_Aretha-Franklin.jpg)
 2018-09-01 Aretha Franklin
 
