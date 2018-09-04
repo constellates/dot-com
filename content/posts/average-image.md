@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180904_Machine-Gun-Kelly.jpg)
+2018-09-04 Machine Gun Kelly
+
 ![](/assets/average_image/20180903_Labor-Day.jpg)
 2018-09-03 Labor Day
 
