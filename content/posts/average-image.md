@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180906_Le'veon-Bell.jpg)
+2018-09-06 Le'veon Bell
+
 ![](/assets/average_image/20180905_Brett-Kavanaugh.jpg)
 2018-09-05 Brett Kavanaugh
 
