@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180908_Mac-Miller.jpg)
+2018-09-08 Mac Miller
+
 ![](/assets/average_image/20180907_Burt-Reynolds.jpg)
 2018-09-07 Burt Reynolds
 
