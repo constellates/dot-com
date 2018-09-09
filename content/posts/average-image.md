@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180909_Cardi-B.jpg)
+2018-09-09 Cardi B
+
 ![](/assets/average_image/20180908_Mac-Miller.jpg)
 2018-09-08 Mac Miller
 
