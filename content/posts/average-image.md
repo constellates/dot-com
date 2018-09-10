@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180910_Aaron-Rodgers.jpg)
+2018-09-10 Aaron Rodgers
+
 ![](/assets/average_image/20180909_Cardi-B.jpg)
 2018-09-09 Cardi B
 
