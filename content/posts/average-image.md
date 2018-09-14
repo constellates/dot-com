@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180914_Thursday-Night-Football.jpg)
+2018-09-14 Thursday Night Football
+
 ![](/assets/average_image/20180913_American-Horror-Story.jpg)
 2018-09-13 American Horror Story
 
