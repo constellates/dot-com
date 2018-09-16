@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180916_Canelo-Vs-Ggg-2-Time.jpg)
+2018-09-16 Canelo Vs Ggg 2 Time
+
 ![](/assets/average_image/20180915_A-Simple-Favor.jpg)
 2018-09-15 A Simple Favor
 
