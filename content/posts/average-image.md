@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180918_Seahawks.jpg)
+2018-09-18 Seahawks
+
 ![](/assets/average_image/20180917_Packers.jpg)
 2018-09-17 Packers
 
