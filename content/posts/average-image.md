@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180921_Browns.jpg)
+2018-09-21 Browns
+
 ![](/assets/average_image/20180919_Captain-Marvel.jpg)
 2018-09-19 Captain Marvel
 
