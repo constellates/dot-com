@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20180923_Texas-A&m-Vs-Alabama.jpg)
+2018-09-23 Texas A&m Vs Alabama
+
 ![](/assets/average_image/20180922_25th-Amendment.jpg)
 2018-09-22 25th Amendment
 
