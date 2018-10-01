@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181001_Cleveland-Browns.jpg)
+2018-10-01 Cleveland Browns
+
 ![](/assets/average_image/20180930_Penn-State-football.jpg)
 2018-09-30 Penn State football
 
