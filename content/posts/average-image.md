@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181007_Banksy.jpg)
+2018-10-07 Banksy
+
 ![](/assets/average_image/20181006_A-Star-Is-Born.jpg)
 2018-10-06 A Star Is Born
 
