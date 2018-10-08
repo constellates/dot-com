@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181008_Chiefs.jpg)
+2018-10-08 Chiefs
+
 ![](/assets/average_image/20181007_Banksy.jpg)
 2018-10-07 Banksy
 
