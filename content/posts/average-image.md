@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181010_Nikki-Haley.jpg)
+2018-10-10 Nikki Haley
+
 ![](/assets/average_image/20181009_Yankees.jpg)
 2018-10-09 Yankees
 
