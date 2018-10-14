@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181014_Georgia-football.jpg)
+2018-10-14 Georgia football
+
 ![](/assets/average_image/20181013_Princess-Eugenie.jpg)
 2018-10-13 Princess Eugenie
 
