@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181020_Mega-Million.jpg)
+2018-10-20 Mega Million
+
 ![](/assets/average_image/20181019_Lakers.jpg)
 2018-10-19 Lakers
 
