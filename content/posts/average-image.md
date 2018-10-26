@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181026_Megyn-Kelly.jpg)
+2018-10-26 Megyn Kelly
+
 ![](/assets/average_image/20181025_Powerball-Results.jpg)
 2018-10-25 Powerball Results
 
