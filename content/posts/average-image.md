@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181028_Pittsburgh.jpg)
+2018-10-28 Pittsburgh
+
 ![](/assets/average_image/20181027_Chilling-Adventures-of-Sabrina.jpg)
 2018-10-27 Chilling Adventures of Sabrina
 
