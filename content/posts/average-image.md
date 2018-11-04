@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181104_Daylight-Saving-2018.jpg)
+2018-11-04 Daylight Saving 2018
+
 ![](/assets/average_image/20181103_Alec-Baldwin.jpg)
 2018-11-03 Alec Baldwin
 
