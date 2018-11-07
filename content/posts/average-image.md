@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181107_Andrew-Gillum.jpg)
+2018-11-07 Andrew Gillum
+
 ![](/assets/average_image/20181106_Titans-Vs-Cowboys.jpg)
 2018-11-06 Titans Vs Cowboys
 
