@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181108_Where-Do-I-Vote-#electionday.jpg)
+2018-11-08 Where Do I Vote #electionday
+
 ![](/assets/average_image/20181107_Andrew-Gillum.jpg)
 2018-11-07 Andrew Gillum
 
