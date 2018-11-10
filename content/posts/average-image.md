@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181110_Amanda-Crowe-Artist.jpg)
+2018-11-10 Amanda Crowe Artist
+
 ![](/assets/average_image/20181109_Ian-David-Long.jpg)
 2018-11-09 Ian David Long
 
