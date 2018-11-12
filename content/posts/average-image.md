@@ -5,6 +5,9 @@ image: /assets/average_image/20170808_Bachelorette-Finale.jpg
 date:   2017-08-06 05:33:59 -0800
 ---
 
+![](/assets/average_image/20181112_Veterans-Day.jpg)
+2018-11-12 Veterans Day
+
 ![](/assets/average_image/20181111_Jimmy-Butler.jpg)
 2018-11-11 Jimmy Butler
 
